@@ -1,5 +1,5 @@
 #
-[![Netlify Status](https://api.netlify.com/api/v1/badges/00e6b328-c662-4885-80ef-6e22e920cf9c/deploy-status)](https://app.netlify.com/sites/talukdersoumen/deploys) 
+[![Netlify Status](this site is on stage of deploying) 
 #
 
 
@@ -31,13 +31,13 @@
 To use this project, you can either download the code or clone the repository using git:
 
 ```bash
-git clone https://github.com/talukdersoumen/talukdersoumen.github.io.git
+
 ```
 
 Then, navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd talukdersoumen.github.io
+
 npm install
 ```
 
