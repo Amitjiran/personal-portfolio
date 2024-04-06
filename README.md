@@ -2,6 +2,14 @@
 [![Netlify Status](this site is on stage of deploying) 
 #
 ![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/c82322b8-142f-4211-b28f-6dc6ddc695d2)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/c3240144-c179-4cd3-adcb-adeed19c273b)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/80207f15-8073-4b67-bc4a-ea4531c1135a)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/c87a91a5-9255-48ff-b579-72fd952470a3)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/e1ac787c-253a-43e4-85dc-f461d135f0c7)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/e67b33b9-b2f3-4916-ab25-415ad3cb1840)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/fc8aade8-ffbf-4577-99a5-d0575b5f7e9b)
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/7a8c0bea-4527-4909-af5b-49e8c8761099)
+
 
 
 
