@@ -1,6 +1,7 @@
 #
 [![Netlify Status](this site is on stage of deploying) 
 #
+![image](https://github.com/Amitjiran/personal-portfolio/assets/74815212/c82322b8-142f-4211-b28f-6dc6ddc695d2)
 
 
 
